@@ -1,0 +1,30 @@
+Answer the following questions:
+1. Which data structures will you use 
+   to store the matches? How do you save 
+   one match? How do you save the list 
+   of matches?
+
+idk prob a queue of matches ig, by making yk, a struct of, match stuff ig
+
+
+2. How are you going to save team 
+   data? What data do you need to save 
+   and how will you save it?
+
+by their number, save waht alliance they have, and their points
+
+
+3. What data structure would be most 
+   effeience to save the teams and add 
+   data to them later?
+
+probably uh, a map
+
+4. How will you go about ranking the 
+   teams to print the results?
+
+
+
+5. What functions will you use to split
+   up your code and make it easier to 
+   read and more reusable?

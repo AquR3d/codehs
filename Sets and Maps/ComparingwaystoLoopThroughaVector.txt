@@ -1,0 +1,12 @@
+For each of the following, compare advantanges and 
+disadvantages with respect to iterating through a vector:
+
+1. For loop with index values:
+u can access certain places with index values
+
+2. For loop with iterator
+same thing tbh just more complicated, iterator helps with certain vector methods that u cant do
+with just index values like erasing a value
+
+3. For-each loop
+now u just dont have numbers but ez to just write it yk automagic 0-end

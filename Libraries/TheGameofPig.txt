@@ -1,0 +1,25 @@
+Write your pseudocode here.
+
+no. - me
+JK! - me
+
+
+player score is set to 0
+round score is set to 0
+
+start of loop - loop till player gets 100 or more coins
+
+if player wants to roll
+then roll die (1-6)
+
+    if rolled a 1
+    then change round score to 0
+    
+    else
+    then change round score to round score + roll
+    
+if player wants to bank
+then add round score to player score
+and reset round score to 0
+
+end of loop
