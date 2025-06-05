@@ -1,0 +1,19 @@
+Los Angeles:San Fransisco,Las Vegas,Phoenix
+San Fransisco:Portland,Los Angeles,Salt Lake City
+Las Vegas:Los Angeles,Salt Lake City,Phoenix
+Phoenix:Los Angeles,Salt Lake City,Dallas
+Salt Lake City:Las Vegas,San Fransisco,Kansas City
+Minneapolis:Kansas City,Chicago
+Kansas City:Dallas,Salt Lake City,Minneapolis,Chicago,Indianapolis
+Dallas:Phoenix,Kansas City,Atlanta
+Atlanta:Dallas,Orlando,Charlotte,Indianapolis
+Orlando:Atlanta,Miami
+Miami:Orlando
+Charlotte:Atlanta
+Washington DC:Charlotte,New York,Indianapolis
+New York:Washington DC,Boston
+Boston:New York
+Indianapolis:Washington DC,Chicago,Kansas City,Atlanta
+Chicago:Minneapolis,Kansas City,Indianapolis
+Portland:Seattle,San Fransisco
+Seattle:Portland
